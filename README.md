@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20408440.svg)](https://doi.org/10.5281/zenodo.20408440)
+
 # El Niño Teleconnections and Climatic Impacts on the Carpathian Basin and Kisalföld
 
 **Authors:** [Your names]  
