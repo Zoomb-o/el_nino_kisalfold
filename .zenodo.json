@@ -1,0 +1,17 @@
+{
+  "title": "El Niño Teleconnections and Climatic Impacts on the Carpathian Basin and Kisalföld",
+  "description": "Code, data, and figures for our research paper on ENSO teleconnection effects on the Carpathian Basin and Kisalföld, including historical analysis and 2026–2027 Super El Niño projections.",
+  "creators": [
+    {
+      "name": "Your Name",
+      "affiliation": "Your Institution"
+    }
+  ],
+  "keywords": [
+    "El Niño", "ENSO", "Carpathian Basin", "Kisalföld",
+    "teleconnection", "climate", "Hungary", "drought", "Super El Niño"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "access_right": "open"
+}

@@ -1,0 +1,5 @@
+period,season,year,oni_forecast,t_anom_forecast,t_anom_pi_lower,t_anom_pi_upper,p_anom_forecast,p_anom_pi_lower,p_anom_pi_upper,phase
+JJA 2026,JJA,2026,-0.401,0.026,-0.371,0.423,4.4,-2.8,11.5,Neutral
+DJF 26/27,DJF,2027,-0.212,0.289,-0.335,0.913,1.7,-2.2,5.6,Neutral
+MAM 2027,MAM,2027,-0.279,-0.315,-0.8,0.17,1.1,-4.2,6.3,Neutral
+JJA 2027,JJA,2027,-0.199,-0.099,-0.496,0.298,3.5,-3.6,10.6,Neutral
